@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chat Aplication<br>🤝 I’m looking for help with Chat App<br>🌱 I’m currently learning Typescript<br>💬 Ask me about Javascript
+🔭 I’m currently working on Ecommerce Shop <br>🤝 I’m looking friends<br>🌱 I’m currently learning Typescript<br>💬 Ask me about Javascript
 
 
 # 💻 Tech Stack:
