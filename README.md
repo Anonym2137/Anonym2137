@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a sass project <br>🤝 I’m looking friends<br>🌱 I’m currently learning data science and making web applications<br>💬 Ask me about Javascript
+🔭 I’m currently working on a sass project <br>🤝 I'm looking for a job<br>🌱 I’m currently learning data science and making web applications<br>💬 Ask me about Javascript
 
 
 # 💻 Tech Stack:
